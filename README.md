@@ -46,13 +46,7 @@ The app generates a beautiful report that includes:
 
 ---
 
-## 📩 Contact
 
-For feedback, bug reports, or suggestions:  
-📧 Email: support@aiviral.app
 
 ---
 
-## 📚 License
-
-This project is licensed under the MIT License.
