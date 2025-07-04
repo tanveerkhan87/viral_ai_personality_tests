@@ -25,7 +25,7 @@ class _ResultsScreenState extends State<ResultsScreen> {
   @override
   void initState() {
     super.initState();
-    const apiKey = 'AIzaSyCHVV6wFR_GTYfv5EW0epcWiB-hh46PWiA'; // Replace with your actual API key
+    const apiKey = '123'; // Replace with your actual API key
     _gemini = Gemini.init(apiKey: apiKey); // Initialize Gemini with API key
   }
 
